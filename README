@@ -35,3 +35,7 @@ The difference is how you set the result-list relative to the input list:
          SMA:             (4  4  4  2)
          CMA:          (4  4  4  2)
 
+
+
+Tested on:
+ - sbcl 1.1.2 (x86-64) on Debian GNU/Linux
